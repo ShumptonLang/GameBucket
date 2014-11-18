@@ -6,8 +6,16 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites"/>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\titleScreen</background>
+    <background>background\background1</background>
+  </backgrounds>
   <paths name="paths"/>
+  <rooms name="rooms"/>
+  <constants number="2">
+    <constant name="GM_build_date">0</constant>
+    <constant name="GM_version">0</constant>
+  </constants>
   <help>
     <rtf>help.rtf</rtf>
   </help>
