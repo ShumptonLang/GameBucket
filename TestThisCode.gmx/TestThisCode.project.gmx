@@ -8,6 +8,10 @@
   <sprites name="sprites"/>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <constants number="2">
+    <constant name="GM_build_date">0</constant>
+    <constant name="GM_version">0</constant>
+  </constants>
   <help>
     <rtf>help.rtf</rtf>
   </help>
